@@ -12,5 +12,5 @@ public abstract class DecoBase implements Componente{
     public DecoBase(Componente wrappee) {
         this.wrappee = wrappee;
     }
-
+    
 }

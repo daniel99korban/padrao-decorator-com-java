@@ -17,6 +17,5 @@ public class Facebook extends DecoBase{
         wrappee.enviar(mensagem + " Facebook ->");
     }
     
-    
   
 }
